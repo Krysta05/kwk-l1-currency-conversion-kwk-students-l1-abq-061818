@@ -33,4 +33,3 @@ when 8
 else 
   puts "invalid input, exiting..."
 end 
-\
